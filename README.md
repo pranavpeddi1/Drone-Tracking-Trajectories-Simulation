@@ -2,3 +2,4 @@
 
 
 ![alt text](https://github.com/pranavpeddi1/Drone-Tracking-Trajectories-Simulation/blob/main/Trajectory1_Simulink.gif)
+![alt text](https://github.com/pranavpeddi1/Drone-Tracking-Trajectories-Simulation/blob/main/Trajectory2_Simulink.gif)
