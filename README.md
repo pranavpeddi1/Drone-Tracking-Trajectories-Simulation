@@ -5,7 +5,7 @@
 
 ![alt text](https://github.com/pranavpeddi1/Drone-Tracking-Trajectories-Simulation/blob/main/Traectory%20Flight%20Controller.png)
 
-Flight Controller with Trajectory Planner
+                    Fig :- Flight Controller with Trajectory Planner
 
 
 
